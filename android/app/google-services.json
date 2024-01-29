@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "353910840165",
+    "project_id": "raqam-b6554",
+    "storage_bucket": "raqam-b6554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353910840165:android:af636a844148a7c5435f8c",
+        "android_client_info": {
+          "package_name": "com.Tarmezsa.raqam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353910840165-3n4q749r3b7f9r19l5tsscdqafjv40q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Tarmezsa.raqam",
+            "certificate_hash": "bf75349d8f06bf1af19b54142d7413f12445cf8a"
+          }
+        },
+        {
+          "client_id": "353910840165-8rfhdh3l7lhsjbinr329oem6hlhcpbvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Tarmezsa.raqam",
+            "certificate_hash": "0ce40f01f9fb2166f5d206e478f913f588c4d854"
+          }
+        },
+        {
+          "client_id": "353910840165-moe2d4hahljunj1voqs1932nte0keg5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9o6ljvd4EvbgI0wB6E6Teh0M9zyIZHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353910840165-moe2d4hahljunj1voqs1932nte0keg5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353910840165-2279kohec21r2udplmng85ke4essgag2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.tarmezsa.raqam"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353910840165:android:a20c67c16e4771fa435f8c",
+        "android_client_info": {
+          "package_name": "com.example.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353910840165-moe2d4hahljunj1voqs1932nte0keg5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO9o6ljvd4EvbgI0wB6E6Teh0M9zyIZHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353910840165-moe2d4hahljunj1voqs1932nte0keg5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353910840165-2279kohec21r2udplmng85ke4essgag2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "om.tarmezsa.raqam"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
